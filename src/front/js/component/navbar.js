@@ -55,7 +55,7 @@ export const Navbar = props => {
 							<div className="dropdown-item heading">Add Plants</div>
 						</Link>
 						<Link to="/searchplant" onClick={() => setShowDropdown(!showDropdown)}>
-							<div className="dropdown-item heading">Search Plants</div>
+							<div className="dropdown-item heading">Search for Plants</div>
 						</Link>
 						<Link to="/hardiness" onClick={() => setShowDropdown(!showDropdown)}>
 							<div className="dropdown-item heading">Find Hardiness Zone</div>
