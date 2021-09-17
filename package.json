@@ -8,6 +8,7 @@
 	"main": "index.js",
 	"scripts": {
 		"start": "webpack-dev-server --config webpack.dev.js --port 3000",
+		"predeploy": "npm run build",
 		"build": "webpack --config webpack.prod.js"
 	},
 	"author": {
