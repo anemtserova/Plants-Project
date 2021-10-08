@@ -16,4 +16,4 @@ It was a team project. Worked with [Pedro Cisternas](https://github.com/pedrocis
 
 ## live link [here](https://plotters-app.herokuapp.com/)
 
-
+### used [this boilerplate](https://github.com/4GeeksAcademy/react-flask-hello) for the project
