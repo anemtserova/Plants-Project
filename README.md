@@ -12,6 +12,8 @@ It uses `Flask` and `SQLAlchemy` for the back-end.
 It was a team project. Worked with [Pedro Cisternas](https://github.com/pedrocisternas)
 
 ![](https://i.imgur.com/X0eIk7G.gif)
+
+
 ![](https://i.imgur.com/EJZBMG9.gif)
 
 ## live link [here](https://plotters-app.herokuapp.com/)
